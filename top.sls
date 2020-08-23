@@ -1,4 +1,3 @@
 '*':
-
-'minion*':
- - apache
+  'minion*':
+    - apache
